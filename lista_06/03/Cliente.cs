@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace _02
 {
@@ -9,7 +9,6 @@ namespace _02
 		private Cliente socio;
 		private double limite;
 		private Cliente proximo;
-		private Cliente anterior;
 
 		public Cliente (string nome, string cpf, double limite)
 		{
@@ -52,17 +51,10 @@ namespace _02
 			proximo = c;
 		}
 
-		public void SetAnterior(Cliente c){
-			anterior = c;
-		}
-
 		public Cliente GetProximo(){
 			return proximo;
 		}
-
-		public Cliente GetAnterior(){
-			return anterior;
-		}
+			
 	}
 }
 
