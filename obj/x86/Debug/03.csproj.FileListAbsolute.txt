@@ -1,5 +1,0 @@
-C:\Users\Julia\Dropbox\TADS\2 Semestre\Programação Orientada a Objetos\Lista06\03\03\bin\Debug\03.exe
-C:\Users\Julia\Dropbox\TADS\2 Semestre\Programação Orientada a Objetos\Lista06\03\03\bin\Debug\03.pdb
-C:\Users\Julia\Dropbox\TADS\2 Semestre\Programação Orientada a Objetos\Lista06\03\03\obj\x86\Debug\03.csprojResolveAssemblyReference.cache
-C:\Users\Julia\Dropbox\TADS\2 Semestre\Programação Orientada a Objetos\Lista06\03\03\obj\x86\Debug\03.exe
-C:\Users\Julia\Dropbox\TADS\2 Semestre\Programação Orientada a Objetos\Lista06\03\03\obj\x86\Debug\03.pdb
